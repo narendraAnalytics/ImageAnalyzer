@@ -1,0 +1,17 @@
+streamlit
+pillow
+google-generativeai
+python-dotenv
+faiss-cpu
+pyperclip
+numpy
+python-decouple
+ratelimit
+backoff
+asyncio
+deep-translator
+opencv-python
+pytesseract
+gtts
+ultralytics
+
