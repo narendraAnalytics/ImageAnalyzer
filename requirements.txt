@@ -14,4 +14,6 @@ opencv-python
 pytesseract
 gtts
 ultralytics
+opencv-python-headless
+
 
